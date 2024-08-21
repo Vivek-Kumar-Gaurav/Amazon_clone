@@ -21,7 +21,7 @@
 .logo{
     background-image:url("images/logo.png");
     background-size: cover;
-    height: 50px;
+    height: 35px;
     width: 100%;
 }
 
@@ -181,9 +181,17 @@ span{
 }
 
 .box-img {
-    height: 300px;
+    height: 320px;
     background-size: cover;
     margin-bottom: 1rem;
+}
+
+.box-content h2{
+    text-align: center;
+}
+
+.box-content a {
+    text-decoration: none;
 }
 
 .box-content p {
@@ -229,3 +237,4 @@ ul a {
     justify-content: center;
     align-items: center;
 }
+
